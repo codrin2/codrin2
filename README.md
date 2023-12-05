@@ -22,6 +22,6 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codrin2"/>
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrin2&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrin2&layout=compact&theme=highcontrast"/>
 </div>
