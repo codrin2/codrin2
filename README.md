@@ -7,7 +7,7 @@
 
 - Department of Software, Gachon University (2019.03 ~ )
 
-- 💬 Email: munyo17@gachon.ac.kr
+- Email: munyo17@gachon.ac.kr
   <br/>
   <br/>
 
