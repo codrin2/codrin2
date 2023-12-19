@@ -8,6 +8,8 @@
 - Department of Software, Gachon University (2019.03 ~ )
 
 - Email: munyo17@gachon.ac.kr
+
+- blog: https://velog.io/@munyo17
   <br/>
   <br/>
 
