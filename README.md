@@ -9,7 +9,7 @@
 
 - Email: munyo17@gachon.ac.kr
 
-- blog: https://velog.io/@munyo17
+- Blog: https://velog.io/@munyo17
   <br/>
   <br/>
 
