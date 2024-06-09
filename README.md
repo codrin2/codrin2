@@ -9,7 +9,9 @@
 
 - Email: munyo17@gachon.ac.kr
 
-- Blog: https://velog.io/@munyo17
+- 개발 블로그: https://velog.io/@munyo17
+
+- DevOps 블로그: https://chobo-backend.tistory.com/
   <br/>
   <br/>
 
