@@ -42,15 +42,6 @@
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Monitoring
-<p>
-<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/Beats-008FC7?style=for-the-badge&logo=Beats&logoColor=white">
-<img src="https://img.shields.io/badge/Elasticsearch-ECD53F?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-<img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-<img src="https://img.shields.io/badge/Kibana-EF2D5E?style=for-the-badge&logo=Kibana&logoColor=white">
-</p>
 
 ### Cloud
 <p>
