@@ -7,6 +7,7 @@
 
 - Department of Software, Gachon University (2019.03 ~ )
 
+- `19.03 ~ ` Department of Software, Gachon University
 - Email: munyo17@gachon.ac.kr
 
 - 개발 블로그: https://velog.io/@munyo17
@@ -15,6 +16,41 @@
   <br/>
   <br/>
 
+## 💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=JAVA&logoColor=FFFFFF" >
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF" >
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" >
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=FFFFFF" >
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
+</p>
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=FFFFFF" >
+</p>
+
+## 📈 Project
+- `24.03 ~ 23.06` 오디오로 들려주는 블로그 'Voda' Backend & Infra
+- `23.09 ~ 23.12` 외국인을 위한 지도 기반 명소 추천 'Poppin' Backend
+
+## 📝 Certifications
+- SQL Developer
+- 정보처리기사
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrin2&layout=compact&theme=highcontrast"/>
+</div>
+
+
+<!--
 ## 💻Tech Stack
 
 ### Language
@@ -61,12 +97,4 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" >
 </p>
 
-## 📝 Certifications
-- SQL Developer
-- Engineer Information Processing
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrin2&layout=compact&theme=highcontrast"/>
-</div>
+-->
