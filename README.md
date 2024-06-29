@@ -6,13 +6,10 @@
   
 
 - Department of Software, Gachon University (2019.03 ~ )
-
-- `19.03 ~ ` Department of Software, Gachon University
 - Email: munyo17@gachon.ac.kr
-
-- 개발 블로그: https://velog.io/@munyo17
-
-- DevOps 블로그: https://chobo-backend.tistory.com/
+- I'm Interested in **Server, Cloud** and **DevOps**
+- KEA(Kakao Entertainment Academy) 4th
+  <br/>
   <br/>
   <br/>
 
