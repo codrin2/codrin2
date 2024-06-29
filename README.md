@@ -6,7 +6,6 @@
   
 
 - Department of Software, Gachon University (2019.03 ~ )
-- Email: munyo17@gachon.ac.kr
 - I'm Interested in **Server, Cloud** and **DevOps**
 - KEA(Kakao Entertainment Academy) 4th
   <br/>
