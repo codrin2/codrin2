@@ -6,7 +6,7 @@
   
 
 - Department of Software, Gachon University (2019.03 ~ )
-- I regularly write articles on <a href="https://chobo-backend.tistory.com/">My Blog</a>
+- I regularly write articles on <a href="https://chobo-backend.tistory.com/">My Blog1 and <a href="https://velog.io/@munyo17/posts">My Blog2</a>
 - I'm Interested in **Server, Cloud** and **DevOps**
 - KEA(Kakao Entertainment Academy) 4th
   <br/>
