@@ -61,6 +61,10 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" >
 </p>
 
+## 📝 Certifications
+- SQL Developer
+- Engineer Information Processing
+
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
