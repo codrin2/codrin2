@@ -6,6 +6,7 @@
   
 
 - Department of Software, Gachon University (2019.03 ~ )
+- I regularly write articles on <a href="https://chobo-backend.tistory.com/">My Blog</a>
 - I'm Interested in **Server, Cloud** and **DevOps**
 - KEA(Kakao Entertainment Academy) 4th
   <br/>
@@ -32,8 +33,8 @@
 </p>
 
 ## 📈 Project
-- `24.03 ~ 23.06` 오디오로 들려주는 블로그 'Voda' Backend & Infra
-- `23.09 ~ 23.12` 외국인을 위한 지도 기반 명소 추천 'Poppin' Backend
+- `24.03 ~ 23.06` 오디오로 들려주는 블로그 'Voda' - Backend & Infra
+- `23.09 ~ 23.12` 외국인을 위한 지도 기반 명소 추천 'Poppin' - Backend
 
 ## 📝 Certifications
 - SQL Developer
