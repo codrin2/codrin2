@@ -9,6 +9,7 @@
 - I regularly write articles on <a href="https://chobo-backend.tistory.com/">My Blog1</a> and <a href="https://velog.io/@munyo17/posts">My Blog2</a>
 - I'm Interested in **Server, Cloud** and **DevOps**
 - KEA(Kakao Entertainment Academy) 4th
+- KUSITMS 30th, Backend
   <br/>
   <br/>
   <br/>
