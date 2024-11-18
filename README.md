@@ -45,11 +45,6 @@
 - `24.03 ~ 24.06` 오디오로 들려주는 블로그 'Voda' - Backend & Infra
 - `23.09 ~ 23.12` 지도 기반 명소 추천 어플 'Poppin' - Backend
 
-## 📝 Certifications
-- SQL Developer
-- 정보처리기사
-- TOEIC Speaking Test - IH(150)
-
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
