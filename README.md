@@ -1,7 +1,7 @@
 ## 😊ABOUT ME
 
   <a href="https://solved.ac/profile/heesang99">
-    <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heesang99">
+    <img align="right"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heesang99"&height="200">
   </a>
   
 
@@ -13,6 +13,12 @@
   <br/>
   <br/>
   <br/>
+
+<div al>
+  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/codrin2"width="400"&height="200"/></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"&width="400"&height="200"/>
+</div>
+
 
 ## 💻 Tech Stack
 <p>
@@ -46,10 +52,7 @@
 - `23.09 ~ 23.12` 지도 기반 명소 추천 어플 'Poppin' - Backend
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
-  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrin2&layout=compact&theme=highcontrast"/>
-</div>
+
 
 
 <!--
@@ -99,4 +102,9 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" >
 </p>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"/>
+  <img height=195px src="https://github-readme-stats.vercel.app/api/top-langs/?username=codrin2&layout=compact&theme=highcontrast"/>
+</div>
 -->
