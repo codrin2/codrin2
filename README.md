@@ -16,7 +16,7 @@
 
 <div al>
   <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/codrin2"width="400"&height="200"/></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"&width="400"&height="200"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"width="400"height="200"/>
 </div>
 
 
