@@ -10,6 +10,7 @@
 - I'm Interested in **Server, Cloud** and **DevOps**
 - KEA(카카오 엔터프라이즈 아카데미) 4th
 - KUSITMS(한국대학생IT 경영학회) 30th, Backend
+- HMG SOFTEER BOOTCAMP 5th, Backend
   <br/>
   <br/>
   <br/>
