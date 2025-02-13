@@ -35,12 +35,6 @@
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=FFFFFF" >
-</p>
-
 ## 🏆Awards
 - `24.11.09` 2024 부산 해양 데이터 해커톤 - 장려상
 - `24.11.02` KUSITMS X KT&G 상상유니브 ESG 아이디어톤 - 대상
