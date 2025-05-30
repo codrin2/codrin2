@@ -5,8 +5,8 @@
   </a>
   
 
-- I regularly write articles on <a href="https://chobo-backend.tistory.com/">tistory</a> and <a href="https://velog.io/@munyo17/posts">velog</a>
 - I'm Interested in **Server, Cloud** and **DevOps**
+- I regularly write articles on <a href="https://chobo-backend.tistory.com/">tistory</a>
 - 카카오 엔터프라이즈 SW아카데미 4기, Backend
 - 큐시즘(한국대학생IT 경영학회) 30기, Backend
 - 현대자동차 소프티어 부트캠프 5기, Backend
