@@ -7,9 +7,9 @@
 
 - I regularly write articles on <a href="https://chobo-backend.tistory.com/">tistory</a> and <a href="https://velog.io/@munyo17/posts">velog</a>
 - I'm Interested in **Server, Cloud** and **DevOps**
-- KEA(카카오 엔터프라이즈 아카데미) 4th, Backend
-- KUSITMS(한국대학생IT 경영학회) 30th, Backend
-- HMG SOFTEER BOOTCAMP 5th, Backend
+- 카카오 엔터프라이즈 SW아카데미 4기, Backend
+- 큐시즘(한국대학생IT 경영학회) 30기, Backend
+- 현대자동차 소프티어 부트캠프 5기, Backend
   <br/>
   <br/>
   <br/>
@@ -35,17 +35,19 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏆Awards
-- `24.11.09` 2024 부산 해양 데이터 해커톤 - 장려상
-- `24.11.02` KUSITMS X KT&G 상상유니브 ESG 아이디어톤 - 대상
-- `24.09.12` KUSITMS X 렛츠커리어 기업 프로젝트 - 최우수상
+- `25.04.21` F-THON 2회 - 인기상(2등)
+- `24.11.09` 2024 부산 해양 데이터 해커톤 - 장려상(3등)
+- `24.11.02` KUSITMS X KT&G 상상유니브 ESG 아이디어톤 - 대상(1등)
+- `24.09.12` KUSITMS X 렛츠커리어 기업 프로젝트 - 최우수상(1등)
 
 ## 📈 Project
-- `25.01 ~ 25.02` 통학생을 위한 이동 시간 할 일 관리 서비스, '두리번' - Backend
-- `24.09 ~ 24.12` 함께하는 최고의 장소를 찾는 서비스 'MOPING' - Backend
-- `24.08 ~ 24.09` KUSITMS X 렛츠커리어 기업프로젝트 '취준생 대시보드' - Backend
-- `24.07 ~ 24.08` 디케이테크인 기업프로젝트 '공정한 휴양시설 추첨' - Backend & Infra
-- `24.03 ~ 24.06` 오디오로 들려주는 블로그 'Voda' - Backend & Infra
-- `23.09 ~ 23.12` 지도 기반 명소 추천 어플 'Poppin' - Backend
+- `25.03 ~ 25.05` 나만의 스케줄 어시스턴트, '온닷'
+- `25.01 ~ 25.02` 통학생을 위한 이동 시간 할 일 관리 서비스, '두리번'
+- `24.09 ~ 24.12` 함께하는 최고의 장소를 찾는 서비스 'MOPING'
+- `24.08 ~ 24.09` KUSITMS X 렛츠커리어 기업프로젝트 '취준생 대시보드'
+- `24.07 ~ 24.08` 디케이테크인 기업프로젝트 '공정한 휴양시설 추첨'
+- `24.03 ~ 24.06` 오디오로 들려주는 블로그 'Voda'
+- `23.09 ~ 23.12` 지도 기반 명소 추천 어플 'Poppin'
 
 
 <!--
