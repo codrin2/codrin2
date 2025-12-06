@@ -5,11 +5,12 @@
   </a>
   
 
-- I'm Interested in **Server, Cloud** and **DevOps**
-- I regularly write articles on <a href="https://chobo-backend.tistory.com/">tistory</a>
+- 깊이 있게 생각하는 백엔드 개발자입니다
+- <a href="https://chobo-backend.tistory.com/">기술 블로그</a>와 <a href="https://linktr.ee/ondot.official">온닷</a>이라는 서비스를 운영하고 있습니다
 - 카카오 엔터프라이즈 SW아카데미 4기
 - 큐시즘(한국대학생IT 경영학회) 30기, Backend
 - 현대자동차그룹 소프티어 부트캠프 5기, Backend
+- 삼성 SSAFY 14기, Java 전공
   <br/>
   <br/>
   <br/>
