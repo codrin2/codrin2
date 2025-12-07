@@ -5,7 +5,7 @@
   </a>
   
 
-- 깊이 있게 생각하는 백엔드 개발자입니다
+- 제품을 먼저 생각하는 백엔드 개발자입니다
 - <a href="https://chobo-backend.tistory.com/">기술 블로그</a>와 <a href="https://linktr.ee/ondot.official">온닷</a>이라는 서비스를 운영하고 있습니다
 - 카카오 엔터프라이즈 SW아카데미 4기
 - 큐시즘(한국대학생IT 경영학회) 30기, Backend
@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" >
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=FFFFFF" >
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/apache kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF">
 </p>
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
