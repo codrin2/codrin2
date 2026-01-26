@@ -1,7 +1,7 @@
 ## 😊ABOUT ME
 
-  <a href="https://solved.ac/profile/heesang99">
-    <img align="right"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=heesang99"&height="200">
+  <a href="https://github.com/devxb/gitanimals">
+    <img align="right" src="https://render.gitanimals.org/farms/codrin2" width="400" height="200"/>
   </a>
   
 
@@ -11,11 +11,8 @@
   <br/>
   <br/>
   <br/>
-
-<div al>
-  <a href="https://github.com/devxb/gitanimals"><img src="https://render.gitanimals.org/farms/codrin2"width="400"&height="200"/></a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=codrin2&theme=merko&show_icons=true&count_private=true"width="400"height="200"/>
-</div>
+  <br/>
+  <br/>
 
 
 ## 💻 Tech Stack
