@@ -1,4 +1,4 @@
-## 😊ABOUT ME
+## 😊 ABOUT ME
 
   <a href="https://github.com/devxb/gitanimals">
     <img align="right" src="https://render.gitanimals.org/farms/codrin2" width="400" height="200"/>
